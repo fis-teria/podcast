@@ -1,4 +1,5 @@
 # 『ギャル百合で聞く論文ポッドキャスト』
+## 第19話台本
 ## *Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned From the Benchmark Autonomous Robot Navigation Challenge at ICRA 2022*
 ### ほんのり百合・抑制版 / 構造化脚本
 

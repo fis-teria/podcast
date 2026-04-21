@@ -1,4 +1,5 @@
 # 『ギャル百合で聞く論文ポッドキャスト』
+## 第10話台本
 ## *RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation*
 ### ほんのり百合・抑制版 / 構造化脚本
 

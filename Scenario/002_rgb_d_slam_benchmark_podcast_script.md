@@ -1,4 +1,5 @@
 # 『ギャル百合で聞く論文ポッドキャスト』
+## 第2話台本
 ## *A Benchmark for the Evaluation of RGB-D SLAM Systems*
 ### ほんのり百合・抑制版 / 構造化脚本
 

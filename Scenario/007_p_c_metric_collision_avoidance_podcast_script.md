@@ -1,4 +1,5 @@
 # 『ギャル百合で聞く論文ポッドキャスト』
+## 第7話台本
 ## *The p_c Metric: A Performance Measure for Collision Avoidance Algorithms*
 ### ほんのり百合・抑制版 / 構造化脚本
 

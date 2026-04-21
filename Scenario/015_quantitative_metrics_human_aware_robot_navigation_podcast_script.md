@@ -1,4 +1,5 @@
 # 『ギャル百合で聞く論文ポッドキャスト』
+## 第15話台本
 ## *Quantitative Metrics for Benchmarking Human-Aware Robot Navigation*
 ### ほんのり百合・抑制版 / 構造化脚本
 

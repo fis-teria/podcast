@@ -1,4 +1,5 @@
 # 『ギャル百合で聞く論文ポッドキャスト』
+## 第4話台本
 ## *DynaBARN: Benchmarking Metric Ground Navigation in Dynamic Environments*
 ### ほんのり百合・抑制版 / 構造化脚本
 

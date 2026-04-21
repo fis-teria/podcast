@@ -1,4 +1,5 @@
 # 『ギャル百合で聞く論文ポッドキャスト』
+## 第11話台本
 ## *Evaluating Mobile Robot Navigation Behavior in Flexible Assembly Systems Through Digital Twin and Real-World Experiments*
 ### ほんのり百合・抑制版 / 構造化脚本
 
